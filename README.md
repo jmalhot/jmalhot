@@ -2,7 +2,7 @@
 Hi, I'm Jatin 👋🏾 👩🏾‍💻 - A Data Scientist
 
 
-![GitHub Logo](ds_image.jpg)
+ds_image.jpg
 ![Alt Text](/ds_image.jpg)
 
 
