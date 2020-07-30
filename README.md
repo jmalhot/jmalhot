@@ -2,7 +2,7 @@
 Hi, I'm Jatin 👋🏾 👩🏾‍💻 - A Data Scientist
 
 
-<img src="https://github.com/jmalhot/jmalhot/blob/master/Data-Science2.jpeg">
+<img src="https://github.com/jmalhot/jmalhot/blob/master/Data-Science.jpeg">
 
 
 
