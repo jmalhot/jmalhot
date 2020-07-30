@@ -1,5 +1,4 @@
 
-Hi, I'm Jatin 👋🏾 👩🏾‍💻
-banner that says Jatin Malhotra - software engineer, content creator and community organizer alongside a cartoon illustration of Monica
+Hi, I'm Jatin 👋🏾 👩🏾‍💻 - A Data Scientist
 
-Sharing updates on LinkedIn 💼
+Jatin is passionate about designing, building, and deploying machine learning solutions as an end to end AI products.
