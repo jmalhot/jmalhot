@@ -1,6 +1,7 @@
 
 Hi, I'm Jatin 👋🏾 👩🏾‍💻 - A Data Scientist
 
+I enjoy buildings data driven products. I’ve worked with organizations of all sizes on two continents, from Fortune 250 companies to small startups.
 
 <img src="https://github.com/jmalhot/jmalhot/blob/master/Data-Science.jpeg">
 
