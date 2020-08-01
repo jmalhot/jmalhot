@@ -1,5 +1,5 @@
 
-Hi, I'm Jatin 👋🏾 👨‍💻- A Data Scientist
+Hi, I'm Jatin 👋🏾 - A Data Scientist 👨‍💻
 
 I enjoy buildings data driven products 🛰. 
 
