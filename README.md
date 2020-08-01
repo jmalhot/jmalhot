@@ -6,7 +6,7 @@ I enjoy buildings data driven products 🛰. I’ve worked with organizations of
 I'm a mentor to various AI startups and machine learning enthusiastics. Through mentoring, I accelerate my own constant learning, because there is always something that you want to do better when teaching that knowledge to others!
 👨‍🔬
 
-<img src="https://github.com/jmalhot/jmalhot/blob/master/Data-Science.jpeg">
+<img src="https://github.com/jmalhot/jmalhot/blob/master/Data-Science3.jpeg">
 
 
 
