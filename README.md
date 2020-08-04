@@ -1,7 +1,7 @@
 
 Hi, I'm Jatin 👋🏾  👨‍💻 - A Data Scientist 
 
-I enjoy buildings data driven products 🛰
+I enjoy building data driven products 🛰
 
 I’ve worked with organizations of all sizes on two continents, from Fortune 250 companies to small startups 🚩
 
