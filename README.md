@@ -1,10 +1,10 @@
 
-Hi, I'm Jatin 👋🏾  👨‍ 💻 
-- A Data Scientist  💻 
+Hi, I'm Jatin 👋🏾  
+- A Data Scientist💻 
 - Machine Learning Engineer
 - Mentor
 - Startup Advisor
-- Forever Student
+- Forever Student👨‍
 
 I enjoy building data driven products 🛰
 
