@@ -1,5 +1,5 @@
 
-Hi, I'm Jatin 👋🏾  👨‍💻 
+Hi, I'm Jatin 👋🏾  👨‍ 💻 
 - Data Scientist 
 - Machine Learning Engineer
 - Mentor
