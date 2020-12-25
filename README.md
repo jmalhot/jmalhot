@@ -8,7 +8,7 @@ Hi, I'm Jatin 👋🏾
 
 I enjoy building data driven products 🛰
 
-I’ve worked with organizations of all sizes on two continents, from Fortune 250 companies to small startups 🚩
+I’ve worked with organizations of all sizes on two continents, from Fortune 250 companies to small startups 🚩🇮🇳🇨🇦🇱🇷
 
 I'm a mentor to various AI startups and machine learning enthusiastics. Through mentoring, I accelerate my own constant learning, because there is always something that you want to do better when teaching that knowledge to others 👨‍🔬
 
