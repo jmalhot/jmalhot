@@ -4,7 +4,7 @@ Hi, I'm Jatin 👋🏾
 - Machine Learning Engineer 👨‍💻
 - Mentor
 - Startup Advisor
-- Forever Student 👨‍
+- Forever Student 👨‍🎓
 
 I enjoy building data driven products 🛰
 
