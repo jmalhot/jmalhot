@@ -2,7 +2,7 @@
 Hi, I'm Jatin 👋🏾  
 - A Data Scientist 💻 
 - Machine Learning Engineer 👨‍💻
-- Mentor
+- Mentor 👨‍🚀
 - Startup Advisor
 - Forever Student 👨‍🎓
 
