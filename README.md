@@ -24,3 +24,12 @@ I am passionate about designing, building, and deploying machine learning soluti
 - <a href="https://www.linkedin.com/in/jatin-malhotra//">LinkedIn</a> 💼
 
 - <a href="https://www.jatin-malhotra.com//">Website</a> 💼
+
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jmalhot&show_icons=true&theme=gotham" alt="Jatin Malhotra | Stats" />
+
+</details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{jmalhot}/count.svg)
