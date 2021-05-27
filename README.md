@@ -21,7 +21,7 @@ I am passionate about designing, building, and deploying machine learning soluti
 
 ## Find more about me 🌎: 
 
-- <a href="https://www.linkedin.com/in/jatinmalhotra//">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/jatin_malhotra//">LinkedIn</a> 💼
 
 - <a href="https://www.jatinmalhotra.com//">Website</a> 💼
 
